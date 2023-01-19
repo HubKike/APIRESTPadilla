@@ -1,0 +1,56 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "usuario": "Pepe Pecas",
+      "email": "pepito.pecas@gmail.com"
+    }
+  ],
+  "cursos": [
+    {
+      "id": "Angular-basico",
+      "Curso": "Angular básico",
+      "Instructor": "Juan Pérez",
+      "Modalidad": "Presencial",
+      "Duración": "Ocho semanas",
+      "Certificado": "No se ofrece certificado",
+      "Precio": "0"
+    },
+    {
+      "id": "Angular-intermedio",
+      "Curso": "Angular intermedio",
+      "Instructor": "Juan Pérez",
+      "Modalidad": "Presencial",
+      "Duración": "Seis semanas",
+      "Certificado": "No se ofrece certificado",
+      "Precio": "9999"
+    },
+    {
+      "id": "Angular-avanzado",
+      "Curso": "Angular avanzado",
+      "Instructor": "Juan Pérez",
+      "Modalidad": "Presencial",
+      "Duración": "Seis semanas",
+      "Certificado": "Sujeto a las políticas de certificación",
+      "Precio": "9999"
+    },
+    {
+      "id": "TypeScript",
+      "Curso": "Curso de TypeScript",
+      "Instructor": "Laura Reyes",
+      "Modalidad": "En línea",
+      "Duración": "Seis semanas",
+      "Certificado": "No se ofrece certificación",
+      "Precio": "1200"
+    },
+    {
+      "id": "Framer",
+      "Curso": "Curso único",
+      "Instructor": "Sofía Sánchez",
+      "Modalidad": "Presencial",
+      "Duración": "Seis semanas",
+      "Certificado": "Patrocinado, sujeto a las políticas de AeroLab",
+      "Precio": "0"
+    }
+  ]
+}
